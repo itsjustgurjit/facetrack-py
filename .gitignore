@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+env/
+venv/
+*.mp4
+*.mov
+*.avi
+pose_landmarker_heavy.task
+pose_landmarker_full.task
+temp_video.mp4
